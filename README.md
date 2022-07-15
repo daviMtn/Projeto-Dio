@@ -1,5 +1,5 @@
 # Projeto-Dio
-Esse repositório foi criado com muito amor para o meu amor
+Esse repositório para o projeto da DIO
 
-# Mensagem para o meu bem
-Te amo muito
+# Colar links importantes 
+
